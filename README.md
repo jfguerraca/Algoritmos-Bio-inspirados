@@ -33,4 +33,14 @@ Simulando el comportamiento natural de los murciélagos, el BA se basa principal
 
  > [BA](https://github.com/jfguerraca/Algoritmos-Bio-inspirados/blob/main/BA.m)
 
+## Optimización de la viuda negra (BWO)
+
+El algoritmo BWO es una técnica inspirada en la forma de apareamiento de las arañas viudas negras.
+
+![black](https://github.com/user-attachments/assets/c90f302d-e2f4-4e3c-9a9e-39ddd175373e)
+
+ > [BWO](https://github.com/jfguerraca/Algoritmos-Bio-inspirados/blob/main/BWO.m)
+
+
+
 
