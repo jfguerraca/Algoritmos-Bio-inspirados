@@ -1,5 +1,18 @@
 # Algoritmos-Bio-inspirados (En construcción)
-Códigos en MATLAB
+
+## 📂 Categorías de Algoritmos
+
+### 🔹 [Cómputo Evolutivo](#cómputo-evolutivo)
+Algoritmos inspirados en la evolución biológica.
+
+### 🔹 [Inteligencia de Enjambre](#inteligencia-de-enjambre)
+Modelos bioinspirados en comportamientos colectivos.
+
+---
+
+## 🔹 Cómputo Evolutivo
+
+📁 Carpeta: [`computo-evolutivo/`](./computo-evolutivo/)
 
 ## Algoritmo Colonia artificial de abejas (Artifitial Bee Colony)
 
