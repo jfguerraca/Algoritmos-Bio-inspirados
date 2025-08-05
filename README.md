@@ -60,7 +60,7 @@ nuevo.
 
 Inspirado en el comportamiento de caza de las larvas de la hormiga león, el ALO utiliza técnicas de búsqueda aleatoria (como el vuelo de Lévy) para evitar la convergencia prematura y aumentar la exploración de soluciones
 
-![antilion_or](https://github.com/user-attachments/assets/ae690773-b0f1-4db3-8d85-67899d9cd1c5)
+![Image](https://github.com/user-attachments/assets/c9aac55f-be23-4006-aa03-c994561a7ab4)
 
 ### Ejemplo de ALO
 
