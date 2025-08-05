@@ -1,6 +1,6 @@
 # Algoritmos-Bio-inspirados (En construcción)
 
-## 📂 Categorías de Algoritmos
+## 📂 Clasificación
 
 ### 🔹 [Cómputo Evolutivo](#cómputo-evolutivo)
 Algoritmos inspirados en la evolución biológica.
@@ -38,11 +38,6 @@ Modelos bioinspirados en comportamientos colectivos.
 
 ---
 
-## 📜 Licencia
-
-Este repositorio está distribuido bajo la **Licencia MIT**, lo que permite su uso, modificación y distribución con fines académicos y de investigación. Ver el archivo [`LICENSE`](./LICENSE) para más detalles.
-
----
 
 ## Algoritmo Colonia artificial de abejas (Artifitial Bee Colony)
 
