@@ -58,7 +58,26 @@ nuevo.
 
 ## Optimización Hormiga León (ALO)
 
-Inspirado en el comportamiento de caza de las larvas de la hormiga león, el ALO utiliza técnicas de búsqueda aleatoria (como el vuelo de Lévy) para evitar la convergencia prematura y aumentar la exploración de soluciones
+Inspirado en elcomportamiento de caza de
+las larvas de la hormiga león. El algoritmo
+ALO utiliza una serie de funciones para
+agilizar su implementación
+
+> Función de inicialización: Genera
+las posiciones de las hormigas león
+y sus presas dentro del espacio de
+búsqueda.
+
+> Función Ruleta: Realiza un proceso
+de selección aleatorio para aumentar
+la calidad de las soluciones.
+Funciones de paseo y vuelo aleatorios:
+Implementan técnicas heurísticas
+para evitar la convergencia
+prematura y aumentar la exploración
+de soluciones, si se utilizan
+los vuelos aleatorios es debido a
+la etapa adulta de la hormiga león.
 
 ![Image](https://github.com/user-attachments/assets/c9aac55f-be23-4006-aa03-c994561a7ab4)
 
