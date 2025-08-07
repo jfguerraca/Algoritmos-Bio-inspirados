@@ -11,8 +11,8 @@ Algoritmos inspirados en la evolución biológica.
 
 | Algoritmo                   | Descripción breve                                     |
 |----------------------------|--------------------------------------------------------|
-| [Algoritmos Genéticos](./evolutivos/GA/) | Simulación de selección natural.         |
-| [Estrategias Evolutivas](./evolutivos/ES/) | Ajuste adaptativo de parámetros.        |
+| [Algoritmos Genéticos](./evolutivos/GA.m/) | Simulación de selección natural.         |
+| [Estrategias Evolutivas](./evolutivos/ES.m/) | Ajuste adaptativo de parámetros.        |
 | ...                        | ...                                                    |
 
 
