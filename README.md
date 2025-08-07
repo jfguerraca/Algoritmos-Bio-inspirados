@@ -5,13 +5,6 @@
 ### 🔹 [Cómputo Evolutivo](#cómputo-evolutivo)
 Algoritmos inspirados en la evolución biológica.
 
-### 🔹 [Inteligencia de Enjambre](#inteligencia-de-enjambre)
-Modelos bioinspirados en comportamientos colectivos.
-
----
-
-## 🔹 Cómputo Evolutivo
-
 📁 Carpeta: [`evolutivos/`](./evolutivos/)
 
 **Descripción:** Métodos que simulan procesos evolutivos para resolver problemas complejos de optimización.
@@ -22,9 +15,9 @@ Modelos bioinspirados en comportamientos colectivos.
 | [Estrategias Evolutivas](./evolutivos/estrategias-evolutivas/) | Ajuste adaptativo de parámetros.        |
 | ...                        | ...                                                    |
 
----
 
-## 🔹 Inteligencia de Enjambre
+### 🔹 [Inteligencia de Enjambre](#inteligencia-de-enjambre)
+Modelos bioinspirados en comportamientos colectivos.
 
 📁 Carpeta: [`enjambre/`](./enjambre/)
 
@@ -37,6 +30,7 @@ Modelos bioinspirados en comportamientos colectivos.
 | ...                        | ...                                                    |
 
 ---
+
 
 
 
